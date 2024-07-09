@@ -1,4 +1,3 @@
-<h1 align="center">moalhaddar</h1>
 <h3 align="center">Sometimes i commit</h3>
 
 <div align="center">
